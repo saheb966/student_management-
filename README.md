@@ -24,3 +24,9 @@ A simple GUI application for managing student records, built with Python and Tki
 1. Run the application by executing the Python file:
    ```bash
    python student_management.py
+
+🙌 Author
+
+Made by Mankirat singh
+
+Department : Computer Engineering
